@@ -1,2 +1,3 @@
-# pi-coding-agent-skills
-Some skills to use for a local coding agent
+# Radi's Pi Coding Agent Skills
+
+A list of Pi coding agent skills that I use for my coding projects
